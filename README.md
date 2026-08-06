@@ -27,11 +27,14 @@ I'm a Quality Assurance Engineer with 5+ years of experience in ensuring softwar
 - TestNG
 - Maven
 - Page Object Model (POM)
+- BDD
+
 
 ### API Testing
 - REST Assured
 - Postman
 - Swagger
+- SandboxTest
 
 ### Databases
 - MySQL
@@ -40,10 +43,13 @@ I'm a Quality Assurance Engineer with 5+ years of experience in ensuring softwar
 ### Bug Tracking
 - Jira
 - Azure DevOps
+- TestGenius
+
 
 ### CI/CD
 - GitHub Actions
 - Jenkins
+- Kubernetes
 
 ### Version Control
 - Git
