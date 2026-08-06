@@ -111,7 +111,7 @@ To contribute to a product-focused engineering team where I can improve software
 
 ### 📫 Connect with Me
 
-LinkedIn: https://www.linkedin.com/in/YOUR-LINKEDIN/
+LinkedIn: www.linkedin.com/in/harshitha-gowda07
 
 Email: harshithagowda549@gmail.com
 
