@@ -115,6 +115,16 @@ To contribute to a product-focused engineering team where I can improve software
 
 ---
 
+## 🏆 Certifications
+
+- ISTQB® Foundation Level (Exam Prep Course) – Udemy (Oct 2026) · [View certificate](https://ude.my/UC-2c6b5125-f50c-4347-bd0c-e5b8c91f452f)
+- API Automation Testing with Python & BDD Framework – Udemy (Feb 2026) · [View certificate](https://ude.my/UC-c4ce99f5-0e43-45c8-a614-f135a3878e7e)
+- AI Tools Workshop – Be10x (Oct 2026) · [Verify](https://app.aicareeraccelerator.in/certificate/XOXgsKc9d5Iwcob)
+- Academy Accreditation: Generative AI Fundamentals – Databricks (Oct 2026) · [Verify](https://credentials.databricks.com/964e326f-91a4-41a4-94c5-4d4a954010c6#acc.F7uhNEyv)
+
+---
+
+
 ### 📫 Connect with Me
 
 LinkedIn: www.linkedin.com/in/harshitha-gowda07
