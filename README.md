@@ -1,6 +1,6 @@
 # Hi there, I'm Harshitha Gowda 👋
 
-## Senior Quality Assurance Engineer | Manual & Automation Testing | API Testing | Selenium | Java
+## Senior Quality Assurance Engineer | Manual & Automation Testing | API Testing | AI Testing
 
 I'm a Quality Assurance Engineer with 5+ years of experience in ensuring software quality through Manual and Automation Testing. I enjoy building scalable test automation frameworks, identifying critical defects, and improving software reliability.
 
